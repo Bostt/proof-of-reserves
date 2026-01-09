@@ -99,5 +99,9 @@ var (
 		"tag":        true,
 		"rektcoin":   true,
 		"pump":       true,
+		"love":       true,
+		"kick":       true,
+		"neiro":      true,
+		"ake":        true,
 	}
 )
